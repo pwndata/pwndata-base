@@ -1,0 +1,11 @@
+{
+  "name": "pwndata",
+  "version": "0.0.1",
+  "dependencies": {
+    "co-views": "^2.1.0",
+    "koa": "latest",
+    "koa-convert": "^1.2.0",
+    "koa-router": "^5.4.0",
+    "koa-static": "latest"
+  }
+}
